@@ -1,19 +1,19 @@
 /*------------------------------------*\
-    #WIDTHS
+    #PX-WIDTHS-DESIGN
 \*------------------------------------*/
 
-@if import-once('trumps.widths') {
+/**
+ * A series of width helper classes that you can use to size things like grid
+ * systems. Classes can take a fraction-like format (e.g. `.2/3`) or a spoken-
+ * word format (e.g. `two-thirds`). Toggle formats by overriding the
+ * `$inuit-use-fractions` variable defined below.
+ */
 
-  /**
-   * A series of width helper classes that you can use to size things like grid
-   * systems. Classes can take a fraction-like format (e.g. `.2/3`) or a spoken-
-   * word format (e.g. `two-thirds`). Toggle formats by overriding the
-   * `$inuit-use-fractions` variable defined below.
-   */
-  
-  // Predefine the variables below in order to alter and enable specific features.
-  $inuit-widths-namespace: $inuit-namespace !default;
-  $inuit-use-fractions:    true !default;
+// Predefine the variables below in order to alter and enable specific features.
+$inuit-widths-namespace : $inuit-namespace !default;
+$inuit-use-fractions    : true !default;
+
+@if import-once('trumps.widths') {
   
   @if $inuit-use-fractions == true {
   
