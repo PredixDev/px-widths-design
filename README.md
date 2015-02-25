@@ -33,7 +33,7 @@ The other available format is spoken-word, e.g. `class="one-half"`. Enable this 
 
 ## Options
 
-These classes are available (All widths are expressed in percentages, rounded to seven decimal points):
+Depending on your choice of format, these classes are available (All widths are expressed in percentages, rounded to seven decimal points):
 
 Whole:
 
