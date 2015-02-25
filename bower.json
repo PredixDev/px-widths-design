@@ -2,7 +2,8 @@
   "name": "px-widths-design",
   "version": "0.0.1",
   "authors": [
-    "General Electric"
+    "General Electric",
+    "Harry Roberts <harry@csswizardry.com>"
   ],
   "description": "A series of helper classes for dealing with widths in Predix Experience",
   "main": "_trumps.widths.scss",
