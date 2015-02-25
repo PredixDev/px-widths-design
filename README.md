@@ -11,7 +11,7 @@ Px's Spacing Responsive module depends on two other Px and inuitcss modules:
 
 ## Upstream dependency
 
-The Widths module is also an upstream dependency for this modulet:
+The Widths module is also an upstream dependency for this module:
 
 * [px-widths-responsive-design](https://github.sw.ge.com/pxc/px-widths-responsive-design)
 
