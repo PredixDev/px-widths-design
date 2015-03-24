@@ -31,3 +31,33 @@ See [px-getting-started](https://github.sw.ge.com/pxc/px-getting-started#a-note-
 ## Usage
 
 By default the widths module will create wholes, halves, thirds, quarters, and fifths nomenclatures for width percentage classes.
+
+## Options
+
+Depending on your choice of format, these classes are available by default (All widths are expressed in percentages, rounded to seven decimal points):
+
+Whole:
+
+* `u-1/1|u-1-of-1`
+
+Halves:
+
+* `u-1/2|u-1-of-2`
+
+Thirds:
+
+* `u-1/3|u-1-of-3`
+* `u-2/3|u-2-of-3`
+
+Quarters:
+
+* `u-1/4|u-1-of-4`
+* `u-2/4|u-2-of-4`
+* `u-3/4|u-3-of-4`
+
+Fifths:
+
+* `u-1/5|u-1-of-5`
+* `u-2/5|u-2-of-5`
+* `u-3/5|u-3-of-5`
+* `u-4/5|u-4-of-5`
