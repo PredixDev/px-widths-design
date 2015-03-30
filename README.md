@@ -7,26 +7,26 @@ The Predix Experience Widths module is a simple file of helper classes to drop w
 Px's Spacing Responsive module depends on two other Px and inuitcss modules:
 
 * [settings.defaults](https://github.com/inuitcss/settings.defaults)
-* [px-functions-design](https://github.sw.ge.com/pxc/px-functions-design)
-* [px-widths-tools-design](https://github.sw.ge.com/pxc/px-widths-tools-design)
+* [px-functions-design](https://github.sw.ge.com/PXd/px-functions-design)
+* [px-widths-tools-design](https://github.sw.ge.com/PXd/px-widths-tools-design)
 
 ## Upstream dependency
 
 The Widths module is also an upstream dependency for this module:
 
-* [px-widths-responsive-design](https://github.sw.ge.com/pxc/px-widths-responsive-design)
+* [px-widths-responsive-design](https://github.sw.ge.com/PXd/px-widths-responsive-design)
 
 ## Installation
 
 Install using Bower:
 
-    bower install --save https://github.sw.ge.com/pxc/px-widths-design.git
+    bower install --save https://github.sw.ge.com/PXd/px-widths-design.git
 
 Once installed, `@import` into your project's Sass file in its Trumps layer:
 
     @import "../px-widths-design/trumps.widths";
 
-See [px-getting-started](https://github.sw.ge.com/pxc/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
+See [px-getting-started](https://github.sw.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
 
 ## Usage
 
