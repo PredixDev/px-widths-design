@@ -6,7 +6,7 @@ The Predix Experience Widths module is a simple file of helper classes to drop w
 
 Px's Spacing Responsive module depends on two other Px and inuitcss modules:
 
-* [settings.defaults](https://github.com/inuitcss/settings.defaults)
+* [px-defaults-design](https://github.sw.ge.com/PXd/px-defaults-design)
 * [px-functions-design](https://github.sw.ge.com/PXd/px-functions-design)
 * [px-widths-tools-design](https://github.sw.ge.com/PXd/px-widths-tools-design)
 
