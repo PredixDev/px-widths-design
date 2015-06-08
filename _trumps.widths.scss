@@ -14,14 +14,14 @@
 @import "../px-functions-design/tools.functions";
 @import "../px-widths-tools-design/tools.widths";
 
-// By default we will create wholes, halves, thirds, quarters, and fifths.
+// By default we will create wholes, halves, thirds, quarters, and sixths.
 // Predefine this Map to override.
 $inuit-widths-columns: (
     1,
     2,
     3,
     4,
-    5,
+    6
 ) !default;
 
 @if import-once('trumps.widths') {
