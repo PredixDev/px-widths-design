@@ -1,36 +1,39 @@
 # Widths
 
-The Predix Experience Widths module is a simple file of helper classes to drop widths onto elements such as grid systems.
+The Predix Experience Widths module is a series of width helper classes that you can use to size things like grid systems.
+
+## Sass Documentation
+
+You can review Sass Documentation here: https://github.build.ge.com/pages/PXd/px-widths-design/sassdoc
 
 ## Dependencies
 
-Px's Spacing Responsive module depends on two other Px and inuitcss modules:
+Px's Spacing Responsive module depends on two other Px modules:
 
-* [px-defaults-design](https://github.sw.ge.com/PXd/px-defaults-design)
-* [px-functions-design](https://github.sw.ge.com/PXd/px-functions-design)
-* [px-widths-tools-design](https://github.sw.ge.com/PXd/px-widths-tools-design)
+* [px-functions-design](https://github.build.ge.com/PXd/px-functions-design)
+* [px-widths-tools-design](https://github.build.ge.com/PXd/px-widths-tools-design)
 
 ## Upstream dependency
 
 The Widths module is also an upstream dependency for this module:
 
-* [px-widths-responsive-design](https://github.sw.ge.com/PXd/px-widths-responsive-design)
+* [px-widths-responsive-design](https://github.build.ge.com/PXd/px-widths-responsive-design)
 
 ## Installation
 
 Install using Bower:
 
-    bower install --save https://github.sw.ge.com/PXd/px-widths-design.git
+    bower install --save https://github.build.ge.com/PXd/px-widths-design.git
 
 Once installed, `@import` into your project's Sass file in its Trumps layer:
 
     @import "../px-widths-design/trumps.widths";
 
-See [px-getting-started](https://github.sw.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
+See [px-getting-started](https://github.build.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
 
 ## Usage
 
-By default the widths module will create wholes, halves, thirds, quarters, and fifths nomenclatures for width percentage classes.
+By default the widths module will create wholes, halves, thirds, quarters, and sixths nomenclatures for width percentage classes.
 
 ## Options
 
@@ -55,9 +58,10 @@ Quarters:
 * `u-2/4|u-2-of-4`
 * `u-3/4|u-3-of-4`
 
-Fifths:
+Sixths:
 
-* `u-1/5|u-1-of-5`
-* `u-2/5|u-2-of-5`
-* `u-3/5|u-3-of-5`
-* `u-4/5|u-4-of-5`
+* `u-1/6|u-1-of-6`
+* `u-2/6|u-2-of-6`
+* `u-3/6|u-3-of-6`
+* `u-4/6|u-4-of-6`
+* `u-5/6|u-5-of-6`
