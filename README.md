@@ -8,16 +8,10 @@ You can review Sass Documentation here: https://github.build.ge.com/pages/PXd/px
 
 ## Dependencies
 
-Px's Spacing Responsive module depends on two other Px modules:
+Px's Widths module depends on two other Px modules:
 
 * [px-functions-design](https://github.build.ge.com/PXd/px-functions-design)
 * [px-widths-tools-design](https://github.build.ge.com/PXd/px-widths-tools-design)
-
-## Upstream dependency
-
-The Widths module is also an upstream dependency for this module:
-
-* [px-widths-responsive-design](https://github.build.ge.com/PXd/px-widths-responsive-design)
 
 ## Installation
 
