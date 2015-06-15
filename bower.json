@@ -1,6 +1,6 @@
 {
   "name": "px-widths-design",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>"
@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "px-widths-tools-design": "git://github.sw.ge.com/PXd/px-widths-tools-design.git#~0.1.0"
+    "px-widths-tools-design": "git://github.sw.ge.com/PXd/px-widths-tools-design.git#~0.2.0"
   }
 }
