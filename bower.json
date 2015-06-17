@@ -1,6 +1,6 @@
 {
   "name": "px-widths-design",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "authors": [
     "General Electric",
     "Harry Roberts <harry@csswizardry.com>"
@@ -13,7 +13,7 @@
     "widths"
   ],
   "license": "Apache 2",
-  "homepage": "git://github.sw.ge.com/PXd/px-widths-design.git",
+  "homepage": "https://github.sw.ge.com/PXd/px-widths-design.git",
   "private": true,
   "ignore": [
     "**/.*",
@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "px-widths-tools-design": "git://github.sw.ge.com/PXd/px-widths-tools-design.git#~0.2.0"
+    "px-widths-tools-design": "https://github.sw.ge.com/PXd/px-widths-tools-design.git#~0.2.0"
   }
 }

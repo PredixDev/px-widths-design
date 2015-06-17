@@ -1,6 +1,6 @@
 {
   "name": "px-widths-design",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A series of helper classes for dealing with widths in Predix Experience",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.build.ge.com/PXd/px-widths-design.git"
+    "url": "https://github.build.ge.com/PXd/px-widths-design.git"
   },
   "author": "General Electric",
   "license": "Apache 2",
