@@ -21,9 +21,7 @@ Install using Bower:
 
 Once installed, `@import` into your project's Sass file in its Trumps layer:
 
-    @import "../px-widths-design/trumps.widths";
-
-See [px-getting-started](https://github.build.ge.com/PXd/px-getting-started#a-note-about-relative-import-paths) for an explanation of the `../`
+    @import "px-widths-design/_trumps.widths.scss";
 
 ## Usage
 
