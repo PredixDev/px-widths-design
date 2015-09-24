@@ -2,9 +2,7 @@
 
 The Predix Experience Widths module is a series of width helper classes that you can use to size things like grid systems.
 
-## Sass Documentation
 
-You can review Sass Documentation here: https://github.com/pages/PredixDev/px-widths-design/sassdoc
 
 ## Dependencies
 
