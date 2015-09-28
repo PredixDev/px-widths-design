@@ -1,6 +1,6 @@
 {
   "name": "px-widths-design",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "A series of helper classes for dealing with widths in Predix Experience",
   "private": true,
   "scripts": {
