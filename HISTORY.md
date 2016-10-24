@@ -1,3 +1,7 @@
+v0.3.11
+==============================
+* added all classes to 'use it in your project' demo section 
+
 v0.3.10
 ==============================
 * added new demo and auto-ghp
