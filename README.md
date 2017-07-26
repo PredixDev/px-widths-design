@@ -1,17 +1,17 @@
-# Widths design
+# px-widths-design
 
 The Predix UI Widths module is a series of width helper classes that you can use to size things like grid systems.
 
 ## Dependencies
 
-Predix UI's Widths module depends on two other Px modules:
+The `px-widths-design` module depends on two other Px modules:
 
 * [px-functions-design](https://github.com/PredixDev/px-functions-design)
 * [px-widths-tools-design](https://github.com/PredixDev/px-widths-tools-design)
 
 ## Installation
 
-Install using Bower:
+Install using bower:
 
     bower install --save px-widths-design
 
@@ -21,7 +21,7 @@ Once installed, `@import` into your project's Sass file in its **Trumps** layer:
 
 ## Usage
 
-By default the widths module will create wholes, halves, thirds, quarters, and sixths nomenclatures for width percentage classes.
+By default the `px-widths-design` module will create wholes, halves, thirds, quarters, and sixths nomenclatures for width percentage classes.
 
 ## Options
 
@@ -54,4 +54,4 @@ Sixths:
 * `u-4/6|u-4-of-6`
 * `u-5/6|u-5-of-6`
 
-view the full API [here](http://predixdev.github.io/px-widths-design/sassdoc/)
+View the full API [here](http://predixdev.github.io/px-widths-design/sassdoc/).
