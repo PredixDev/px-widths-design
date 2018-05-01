@@ -2,8 +2,8 @@
     {
         "description": "By default we will create wholes, halves, thirds, quarters, and sixths. Predefine this Map to override.\n",
         "commentRange": {
-            "start": 15,
-            "end": 17
+            "start": 31,
+            "end": 33
         },
         "context": {
             "type": "variable",
@@ -11,8 +11,8 @@
             "value": "(\n    1,\n    2,\n    3,\n    4,\n    6\n)",
             "scope": "default",
             "line": {
-                "start": 18,
-                "end": 24
+                "start": 34,
+                "end": 40
             }
         },
         "group": [
